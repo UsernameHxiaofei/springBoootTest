@@ -1,0 +1,9 @@
+cn\gtja\controller\UserController.class
+cn\gtja\model\User.class
+cn\gtja\Application.class
+cn\gtja\service\UserService.class
+cn\gtja\service\impl\UserServiceImpl.class
+cn\gtja\interceptor\LoggerInterceptor.class
+cn\gtja\mapper\UserMapper.class
+cn\gtja\model\PageBean.class
+cn\gtja\config\MvcConfig.class
